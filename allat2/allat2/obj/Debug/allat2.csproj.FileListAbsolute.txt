@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\oop\allat2\allat2\bin\Debug\allat2.exe.config
+C:\Users\Admin\Desktop\oop\allat2\allat2\bin\Debug\allat2.exe
+C:\Users\Admin\Desktop\oop\allat2\allat2\bin\Debug\allat2.pdb
+C:\Users\Admin\Desktop\oop\allat2\allat2\obj\Debug\allat2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\oop\allat2\allat2\obj\Debug\allat2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\oop\allat2\allat2\obj\Debug\allat2.exe
+C:\Users\Admin\Desktop\oop\allat2\allat2\obj\Debug\allat2.pdb
